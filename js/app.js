@@ -1,2 +1,6 @@
 btn = document.getElementById('boton');
-alert(btn);
+btn.addEventListener('click',alerta);
+
+function alerta(){
+    alert('hola mundo');
+}

@@ -5,3 +5,8 @@ container{
     float: left;
     background-color: blueviolet;
 }
+.alerta{
+    margin: 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
